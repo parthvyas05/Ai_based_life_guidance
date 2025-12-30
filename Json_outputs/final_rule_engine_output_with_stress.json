@@ -1,0 +1,224 @@
+[
+  {
+    "user_id": "1",
+    "archetypes": [
+      "Stressed_Professional",
+      "Money_Replanner",
+      "Ambitious_Thinker"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R1",
+        "category": "career",
+        "priority": 5,
+        "message": "You are in a phase where focused effort on deep work can pay off. Protect your calendar and say no to low value tasks."
+      },
+      {
+        "rule_id": "R2",
+        "category": "career",
+        "priority": 4,
+        "message": "Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones."
+      },
+      {
+        "rule_id": "R5",
+        "category": "health",
+        "priority": 4,
+        "message": "High work pressure is not permanent but ignoring it can be costly. Block 15 minutes daily to decompress and review priorities."
+      },
+      {
+        "rule_id": "R7",
+        "category": "financial",
+        "priority": 4,
+        "message": "Important money choices are around you. List your top two long term goals and check if this decision supports at least one of them."
+      }
+    ],
+    "stress_score": 0.6865,
+    "stress_level": "High"
+  },
+  {
+    "user_id": "2",
+    "archetypes": [
+      "Growth_Leader"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R9",
+        "category": "career",
+        "priority": 5,
+        "message": "You have a concrete growth window. Clarify what success looks like in this opportunity and what support you need to get there."
+      }
+    ],
+    "stress_score": 0.4844,
+    "stress_level": "Medium"
+  },
+  {
+    "user_id": "3",
+    "archetypes": [
+      "Health_Rebuilder"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R4",
+        "category": "health",
+        "priority": 5,
+        "message": "Recent health signals are a nudge to reset your routines. Start with one sustainable habit around sleep"
+      }
+    ],
+    "stress_score": 0.5732,
+    "stress_level": "Medium"
+  },
+  {
+    "user_id": "4",
+    "archetypes": [
+      "Explorer_On_Edge",
+      "Connection_Seeker"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R6",
+        "category": "life_direction",
+        "priority": 4,
+        "message": "You thrive when you have inspiring goals. Write down three options you are considering and evaluate them on meaning"
+      },
+      {
+        "rule_id": "R8",
+        "category": "relationships",
+        "priority": 4,
+        "message": "You seem to be in a phase with fewer close connections. Intentionally reach out to one person each week for a real conversation."
+      }
+    ],
+    "stress_score": 0.506,
+    "stress_level": "Medium"
+  },
+  {
+    "user_id": "5",
+    "archetypes": [
+      "Growth_Leader",
+      "Ambitious_Thinker"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R9",
+        "category": "career",
+        "priority": 5,
+        "message": "You have a concrete growth window. Clarify what success looks like in this opportunity and what support you need to get there."
+      },
+      {
+        "rule_id": "R2",
+        "category": "career",
+        "priority": 4,
+        "message": "Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones."
+      }
+    ],
+    "stress_score": 0.875,
+    "stress_level": "High"
+  },
+  {
+    "user_id": "6",
+    "archetypes": [
+      "Money_Replanner"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R7",
+        "category": "financial",
+        "priority": 4,
+        "message": "Important money choices are around you. List your top two long term goals and check if this decision supports at least one of them."
+      }
+    ],
+    "stress_score": 0.1537,
+    "stress_level": "Low"
+  },
+  {
+    "user_id": "7",
+    "archetypes": [
+      "Balanced_Caretaker",
+      "Overloaded_Giver"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R3",
+        "category": "relationships",
+        "priority": 5,
+        "message": "Your strength is providing emotional support. Make sure you also schedule one small ritual each week just for your own recharge."
+      },
+      {
+        "rule_id": "R10",
+        "category": "health",
+        "priority": 3,
+        "message": "You carry many responsibilities. Build a small backup circle so support does not rest only on your shoulders."
+      }
+    ],
+    "stress_score": 0.3864,
+    "stress_level": "Medium"
+  },
+  {
+    "user_id": "8",
+    "archetypes": [
+      "Stressed_Professional",
+      "Ambitious_Thinker"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R2",
+        "category": "career",
+        "priority": 4,
+        "message": "Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones."
+      },
+      {
+        "rule_id": "R5",
+        "category": "health",
+        "priority": 4,
+        "message": "High work pressure is not permanent but ignoring it can be costly. Block 15 minutes daily to decompress and review priorities."
+      }
+    ],
+    "stress_score": 0.4906,
+    "stress_level": "Medium"
+  },
+  {
+    "user_id": "9",
+    "archetypes": [
+      "Balanced_Caretaker"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R3",
+        "category": "relationships",
+        "priority": 5,
+        "message": "Your strength is providing emotional support. Make sure you also schedule one small ritual each week just for your own recharge."
+      }
+    ],
+    "stress_score": 0.1825,
+    "stress_level": "Low"
+  },
+  {
+    "user_id": "10",
+    "archetypes": [
+      "Uncertain_Path",
+      "Explorer_On_Edge",
+      "Ambitious_Thinker"
+    ],
+    "guidance": [
+      {
+        "rule_id": "R11",
+        "category": "life_direction",
+        "priority": 5,
+        "message": "Confusion about direction often means you are ready for a new chapter. Journal about what you want to move away from and what you want more of."
+      },
+      {
+        "rule_id": "R2",
+        "category": "career",
+        "priority": 4,
+        "message": "Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones."
+      },
+      {
+        "rule_id": "R6",
+        "category": "life_direction",
+        "priority": 4,
+        "message": "You thrive when you have inspiring goals. Write down three options you are considering and evaluate them on meaning"
+      }
+    ],
+    "stress_score": 0.4798,
+    "stress_level": "Medium"
+  }
+]
