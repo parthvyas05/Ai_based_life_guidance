@@ -249,6 +249,8 @@ uvicorn
 ✔ Frontend-ready output
 ✔ Clear documentation
 
+https://drive.google.com/drive/folders/1JKLwgZtWQQ-8BTYMp03kExoaoyC9utOI?usp=drive_link
+
 Notes for Reviewers
 
 Model performance is intentionally simple (synthetic data)
