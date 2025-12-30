@@ -1,0 +1,20 @@
+user_id,stress_score,stress_level,archetypes,rule_id,category,priority,message
+1,0.6865,High,"Stressed_Professional, Money_Replanner, Ambitious_Thinker",R1,career,5,You are in a phase where focused effort on deep work can pay off. Protect your calendar and say no to low value tasks.
+1,0.6865,High,"Stressed_Professional, Money_Replanner, Ambitious_Thinker",R2,career,4,Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones.
+1,0.6865,High,"Stressed_Professional, Money_Replanner, Ambitious_Thinker",R5,health,4,High work pressure is not permanent but ignoring it can be costly. Block 15 minutes daily to decompress and review priorities.
+1,0.6865,High,"Stressed_Professional, Money_Replanner, Ambitious_Thinker",R7,financial,4,Important money choices are around you. List your top two long term goals and check if this decision supports at least one of them.
+2,0.4844,Medium,Growth_Leader,R9,career,5,You have a concrete growth window. Clarify what success looks like in this opportunity and what support you need to get there.
+3,0.5732,Medium,Health_Rebuilder,R4,health,5,Recent health signals are a nudge to reset your routines. Start with one sustainable habit around sleep
+4,0.506,Medium,"Explorer_On_Edge, Connection_Seeker",R6,life_direction,4,You thrive when you have inspiring goals. Write down three options you are considering and evaluate them on meaning
+4,0.506,Medium,"Explorer_On_Edge, Connection_Seeker",R8,relationships,4,You seem to be in a phase with fewer close connections. Intentionally reach out to one person each week for a real conversation.
+5,0.875,High,"Growth_Leader, Ambitious_Thinker",R9,career,5,You have a concrete growth window. Clarify what success looks like in this opportunity and what support you need to get there.
+5,0.875,High,"Growth_Leader, Ambitious_Thinker",R2,career,4,Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones.
+6,0.1537,Low,Money_Replanner,R7,financial,4,Important money choices are around you. List your top two long term goals and check if this decision supports at least one of them.
+7,0.3864,Medium,"Balanced_Caretaker, Overloaded_Giver",R3,relationships,5,Your strength is providing emotional support. Make sure you also schedule one small ritual each week just for your own recharge.
+7,0.3864,Medium,"Balanced_Caretaker, Overloaded_Giver",R10,health,3,You carry many responsibilities. Build a small backup circle so support does not rest only on your shoulders.
+8,0.4906,Medium,"Stressed_Professional, Ambitious_Thinker",R2,career,4,Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones.
+8,0.4906,Medium,"Stressed_Professional, Ambitious_Thinker",R5,health,4,High work pressure is not permanent but ignoring it can be costly. Block 15 minutes daily to decompress and review priorities.
+9,0.1825,Low,Balanced_Caretaker,R3,relationships,5,Your strength is providing emotional support. Make sure you also schedule one small ritual each week just for your own recharge.
+10,0.4798,Medium,"Uncertain_Path, Explorer_On_Edge, Ambitious_Thinker",R11,life_direction,5,Confusion about direction often means you are ready for a new chapter. Journal about what you want to move away from and what you want more of.
+10,0.4798,Medium,"Uncertain_Path, Explorer_On_Edge, Ambitious_Thinker",R2,career,4,Your appetite for calculated risk is an asset. Explore one bold move in the next 30 days rather than many small scattered ones.
+10,0.4798,Medium,"Uncertain_Path, Explorer_On_Edge, Ambitious_Thinker",R6,life_direction,4,You thrive when you have inspiring goals. Write down three options you are considering and evaluate them on meaning
